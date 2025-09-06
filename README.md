@@ -3,13 +3,13 @@
 <img src="resources/banner.png" alt="Hello world">
 
 
-<h2 align="left">Hi 👋! My name is Fizza and I'm a Software Engineer exploring the exciting world of Data Science. With a strong foundation in MERN stack development from building scalable APIs to crafting user-friendly UIs, I’m now diving deeper into the art of transforming data into insights.
+<h6 align="left">Hi 👋! My name is Fizza and I'm a Software Engineer exploring the exciting world of Data Science. With a strong foundation in MERN stack development from building scalable APIs to crafting user-friendly UIs, I’m now diving deeper into the art of transforming data into insights.
 
 I love solving real-world problems, whether it’s developing apps that make daily life easier or analyzing data to uncover meaningful patterns. Currently, I’m sharpening my skills in Python, Pandas, SQL, and Machine Learning, while bringing my background in full-stack development to create end-to-end, data-driven solutions.
 
 💡 What excites me most? The blend of creativity and logic—using code to tell stories hidden in data, and building tools that empower people to make smarter decisions.
 
-Always curious, always learning, and always open to opportunities where I can grow, contribute, and innovate.</h2> 
+Always curious, always learning, and always open to opportunities where I can grow, contribute, and innovate.</h6> 
 
 ###
 
