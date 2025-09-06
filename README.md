@@ -1,5 +1,4 @@
-# Hey there 👋
-
+# 
 <img src="/Resources/banner.png" alt="Hello world">
 
 
@@ -12,7 +11,13 @@ What excites me most? The blend of creativity and logic—using code to tell sto
 Always curious, always learning, and always open to opportunities where I can grow, contribute, and innovate.</h4> 
 
 
+
+
+
 ### 
+
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fizza-Ashfaq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -74,4 +79,4 @@ Always curious, always learning, and always open to opportunities where I can gr
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Fizza-Ashfaq/Fizza-Ashfaq/output/snake.yaml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Fizza-Ashfaq/Fizza-Ashfaq/output/snake.svg" alt="Snake animation" />
