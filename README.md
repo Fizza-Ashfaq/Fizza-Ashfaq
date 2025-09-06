@@ -11,11 +11,6 @@ What excites me most? The blend of creativity and logic—using code to tell sto
 
 Always curious, always learning, and always open to opportunities where I can grow, contribute, and innovate.</h5> 
 
-###
-
-<img align="right" height="150" src="/Resources/let&apos;s_connect.jpg"  />
-
----
 
 ### 
 
