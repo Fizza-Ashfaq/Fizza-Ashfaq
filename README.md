@@ -13,7 +13,7 @@ Always curious, always learning, and always open to opportunities where I can gr
 
 ###
 
-<img align="right" height="150" src="/Resources/let'&apos;'s_connect.jpg"  />
+<img align="right" height="150" src="/Resources/let&apos;s_connect.jpg"  />
 
 ---
 
