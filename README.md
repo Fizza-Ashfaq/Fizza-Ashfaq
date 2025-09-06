@@ -74,4 +74,4 @@ Always curious, always learning, and always open to opportunities where I can gr
 
 <br clear="both">
 
-<img src="/Resources/snake.yaml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Fizza-Ashfaq/Fizza-Ashfaq/output/snake.svg" alt="Snake animation" />
