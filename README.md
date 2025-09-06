@@ -1,7 +1,7 @@
 # Hey there 👋
 
 <img src="resources/banner.png" alt="Hello world">
----
+
 
 <h2 align="left">Hi 👋! My name is Fizza and I'm a Software Engineer exploring the exciting world of Data Science. With a strong foundation in MERN stack development from building scalable APIs to crafting user-friendly UIs, I’m now diving deeper into the art of transforming data into insights.
 
@@ -79,4 +79,4 @@ Always curious, always learning, and always open to opportunities where I can gr
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Fizza-Ashfaq/Fizza-Ashfaq/output/snake.svg" alt="Snake animation" />
+<img src="resources/snake.yaml" alt="Snake animation" />
