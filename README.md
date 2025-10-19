@@ -2,13 +2,13 @@
 <img src="/Resources/banner.png" alt="Hello world">
 
 
-<h4 align="left">Hi! My name is Fizza and I'm a Software Engineer exploring the exciting world of Data Science. With a strong foundation in MERN stack development from building scalable APIs to crafting user-friendly UIs, I’m now diving deeper into the art of transforming data into insights.
+<h4 align="left">Hi! My name is Fizza and I'm a Software Engineer exploring the ever-evolving world of Cybersecurity. With a strong foundation in the MERN stack — from building scalable APIs to crafting user-friendly UIs — I’m now diving into securing the systems that power them.
 
-I love solving real-world problems, whether it’s developing apps that make daily life easier or analyzing data to uncover meaningful patterns. Currently, I’m sharpening my skills in Python, Pandas, SQL, and Machine Learning, while bringing my background in full-stack development to create end-to-end, data-driven solutions.
+I love tackling real-world problems, whether it’s strengthening applications against vulnerabilities or learning how ethical hacking can protect users and data. Currently, I’m sharpening my skills in Python, Network Security, and Penetration Testing, while leveraging my background in full-stack development to understand security from the inside out.
 
-What excites me most? The blend of creativity and logic—using code to tell stories hidden in data, and building tools that empower people to make smarter decisions.
+What excites me most? The constant challenge — thinking like an attacker to build stronger defenses, and turning curiosity into protection.
 
-Always curious, always learning, and always open to opportunities where I can grow, contribute, and innovate.</h4> 
+Always curious, always learning, and always open to opportunities where I can grow, contribute, and make the digital world a little safer.</h4> 
 
 
 
