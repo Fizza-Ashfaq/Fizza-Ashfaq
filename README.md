@@ -3,8 +3,7 @@
 
 
 <h4 align="left">Hi! I'm Fizza, a Software Engineering student passionate about learning and exploring different areas of software development. I have experience with the MERN stack and enjoy building projects, solving problems, and continuously improving my skills through hands-on learning and new technologies.
-
-Always learning, always building, and always open to new opportunities and experiences.</h4> 
+</h4> 
 
 
 
