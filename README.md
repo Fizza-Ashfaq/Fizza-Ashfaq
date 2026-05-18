@@ -2,13 +2,9 @@
 <img src="/Resources/banner.png" alt="Hello world">
 
 
-<h4 align="left">Hi! My name is Fizza and I'm a Software Engineer exploring the ever-evolving world of Cybersecurity. With a strong foundation in the MERN stack — from building scalable APIs to crafting user-friendly UIs — I’m now diving into securing the systems that power them.
+<h4 align="left">Hi! I'm Fizza, a Software Engineering student passionate about learning and exploring different areas of software development. I have experience with the MERN stack and enjoy building projects, solving problems, and continuously improving my skills through hands-on learning and new technologies.
 
-I love tackling real-world problems, whether it’s strengthening applications against vulnerabilities or learning how ethical hacking can protect users and data. Currently, I’m sharpening my skills in Python, Network Security, and Penetration Testing, while leveraging my background in full-stack development to understand security from the inside out.
-
-What excites me most? The constant challenge — thinking like an attacker to build stronger defenses, and turning curiosity into protection.
-
-Always curious, always learning, and always open to opportunities where I can grow, contribute, and make the digital world a little safer.</h4> 
+Always learning, always building, and always open to new opportunities and experiences.</h4> 
 
 
 
